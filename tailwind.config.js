@@ -10,18 +10,22 @@ module.exports = {
       lg: '1.125rem',
       xl: '1.25rem',
       '2xl': '1.5rem',
-      '3xl': '1.875rem',
+      '3xl': '1.75rem',
       '4xl': '2.25rem',
       '5xl': '3rem',
       '6xl': '4rem',
     },
     extend: {
+      fontFamily: {
+        regular: ['futura', 'sans-serif'],
+        bold: ['futura_bold', 'sans-serif'],
+      },
       colors: {
-        primary: '#ec4755',
-        secondary: '#a12c34',
+        primary: '#a28557',
+        secondary: '#ffffff',
         tertiary: '#99a0a3',
         border: '#1a2e35',
-        background: '#ffffff',
+        background: '#000000',
       },
       animation: {
         vote: 'vote 1s ease-in-out',

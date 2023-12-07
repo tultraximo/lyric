@@ -84,12 +84,3 @@ Everyone is welcome to contribute to this project. Feel free to open an issue if
 
 Licensed under the MIT License, Copyright © 2021
   
-
-## Liked this template? <a href="https://www.buymeacoffee.com/issaaf">Buy me a coffee ☕️</a>
-
-
-
-
----
-
-### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>
